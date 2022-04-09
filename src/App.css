@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+
+.box {
+  background-color:whitesmoke;
+  padding:2rem;
+  border-radius:10px;
+  box-shadow: 3px 3px 5px rgba(0,0,0,0.2);
+  width:600px;
+  max-width:100%;
+  text-align:center;
+}
+
+.box h3 {
+  margin-top:0;
+}
+.box p{
+  margin:2rem;
+}
+
+.box button {
+  background-color:rebeccapurple;
+  border:0;
+  border-radius:3px;
+  box-shadow:3px 3px 5px rgba(0,0,0,0.2);
+  color:white;
+  padding:15px;
+}
+
